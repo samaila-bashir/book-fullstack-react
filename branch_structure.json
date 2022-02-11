@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/chownr-1.1.4",
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/jquery-ui-1.13.0",
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/ua-parser-js-0.7.31",
+    "dependabot/npm_and_yarn/exercise-files/forms/marked-0.3.19",
+    "dependabot/npm_and_yarn/exercise-files/forms/tmpl-1.0.5",
+    "dependabot/npm_and_yarn/exercise-files/forms/ua-parser-js-0.7.31",
+    "dependabot/npm_and_yarn/exercise-files/forms/validator-13.7.0",
+    "master"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/chownr-1.1.4": "master",
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/jquery-ui-1.13.0": "master",
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/ua-parser-js-0.7.31": "master",
+    "dependabot/npm_and_yarn/exercise-files/forms/marked-0.3.19": "master",
+    "dependabot/npm_and_yarn/exercise-files/forms/tmpl-1.0.5": "master",
+    "dependabot/npm_and_yarn/exercise-files/forms/ua-parser-js-0.7.31": "master",
+    "dependabot/npm_and_yarn/exercise-files/forms/validator-13.7.0": "master",
+    "master": null
+  },
+  "order": [
+    "master",
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/chownr-1.1.4",
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/jquery-ui-1.13.0",
+    "dependabot/npm_and_yarn/exercise-files/advanced-components/components-cookbook/ua-parser-js-0.7.31",
+    "dependabot/npm_and_yarn/exercise-files/forms/marked-0.3.19",
+    "dependabot/npm_and_yarn/exercise-files/forms/tmpl-1.0.5",
+    "dependabot/npm_and_yarn/exercise-files/forms/ua-parser-js-0.7.31",
+    "dependabot/npm_and_yarn/exercise-files/forms/validator-13.7.0"
+  ]
+}
